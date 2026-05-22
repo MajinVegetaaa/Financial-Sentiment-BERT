@@ -1,0 +1,8 @@
+
+# Ignore Colab/Python hidden files
+.config/
+sample_data/
+__pycache__/
+*.csv
+*.pt
+.ipynb_checkpoints/
