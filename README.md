@@ -1,6 +1,6 @@
 # Financial News Sentiment Classifier (BERT)
 
-An end-to-level sentiment analysis project using **FinBERT/BERT** to classify financial headlines into three categories: **Positive, Negative, and Neutral**.
+An end-to-level sentiment analysis project using **BERT** to classify financial headlines into three categories: **Positive, Negative, and Neutral**.
 
 ## 🚀 Project Overview
 - **Dataset**: `financial_phrasebank` (approx. 4,800 human-annotated financial sentences).
